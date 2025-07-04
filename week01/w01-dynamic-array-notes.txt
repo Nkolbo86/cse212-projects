@@ -1,0 +1,12 @@
+W01 Learning Activity - Dynamic Arrays
+
+Initial capacity: 4
+Inserted values: A, B, C, D
+Capacity full → created new array of size 8
+Inserted value E → at index 4
+Removed B from index 1
+Shifted elements left
+Appended B to end of array
+Final array: [A, C, D, E, B]
+Capacity: 8
+Size: 5
