@@ -7,16 +7,5 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="Program.cs" />
-    <Compile Include="SimpleStack.cs" />
-    <Compile Include="SimpleQueue.cs" />
-    <Compile Include="SimpleQueueTests.cs" />
-    <Compile Include="ComplexStack.cs" />
-    <Compile Include="ComplexStackSolution.cs" />
-    <Compile Include="MysteryProgram.cs" />
-    <Compile Include="CustomerService.cs" />
-    <Compile Include="CustomerServiceSolution.cs" />
-  </ItemGroup>
-
 </Project>
+

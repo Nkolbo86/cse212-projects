@@ -19,7 +19,6 @@ class Program
         Console.WriteLine("\n======================");
         Console.WriteLine("Running SimpleQueue activity...");
         Console.WriteLine("======================");
-        SimpleQueue.Run();
 
         SimpleQueueTests.Run();
 
